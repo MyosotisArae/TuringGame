@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Turing Machine</string>
+    <string name="condition_label">N° carte condition :</string>
+    <string name="condition_numero">N° de condition :</string>
+    <string name="condition_button">Quels contrôleurs pour cette carte ?</string>
+    <string name="controle_label">N° de la carte de contrôle :</string>
+    <string name="controle_button">Quelles conditions ce contrôleur vérifie-t-il ?</string>
+    <string name="condition_and_controle_button">Ce contrôleur permet-il de vérifier cette condition ?</string>
+
+    <string name="answer">Réponse : ...</string>
+</resources>
